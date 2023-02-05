@@ -1,0 +1,117 @@
+ul#redesocial{
+    color: white;
+    list-style: none;
+    color: white;
+    padding-left: 0px;
+}
+    ul#redesocial img{
+        width: 40px;
+       
+       
+        border-radius: 50%;
+       
+    }
+    ul#redesocial img:hover{
+        border: 2px solid white;
+        transform: translate(-3px,-3px);
+        
+    }
+    
+    li.social{
+        
+        list-style: none;
+        display: inline-block;
+      
+    
+        }
+    
+    
+      a.text{
+            color: white;   
+            text-decoration: none;
+        }
+    
+       
+        ul#footer{
+            list-style: none;
+            color: white;
+            padding-left: 0px;
+        }
+        a.botao{
+    
+          margin: 3px;
+        }
+    
+       
+        
+            
+    
+            a:hover{
+                color: black;
+            } 
+          
+            div#logofooter{
+                text-align: right;
+            }
+            
+          
+    
+           p#texto{
+            color: white;
+           }
+           hr#linha{
+    
+            background-color: white;
+           }
+           hr#final{
+            margin: 0px;
+           }
+    
+           h3.hov:hover{
+            color:gray;
+            
+           }
+           p.ho:hover{
+            color:gray;
+           }
+          
+          li.lado{
+            padding: 10px;
+
+            display: inline-block;
+            
+          }
+
+          
+          .card{
+            border-radius: 15px;
+            background-color: gray;
+            justify-content: center;
+            box-shadow: 10px 10px 15px black;
+           border-left: 2px solid white;
+            border-top: 2px solid white;
+            margin: 5px;
+
+          }
+          .content{
+
+            padding: 20px;
+            text-align: center;
+          }
+          h2{
+            position: absolute;
+            top: 80px;
+           right: 60px;
+            font-size: 8em;
+            color: rgba(255, 255,255, 0.15);
+          }
+          h5.card-title{
+
+            color: white;
+
+          }
+          p.card-text{
+            color: white;
+          }
+          
+           
